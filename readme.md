@@ -1,2 +1,2 @@
 # Практикую ветки в Git
-* тут ссылка
+[Ссылка на проект](https://innokentii-iurkovskii.github.io/yet-another-project/)
