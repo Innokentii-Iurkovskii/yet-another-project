@@ -1,0 +1,7 @@
+.content__element {
+  outline: 3px solid black;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
